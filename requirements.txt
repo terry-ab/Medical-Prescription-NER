@@ -1,0 +1,7 @@
+transformer==4.28.0
+spacy
+json
+pandas
+numpy
+datasets
+seqeval
