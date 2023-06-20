@@ -1,5 +1,4 @@
 # Medical Prescription NER
-from Terry Abraham(stu_id: 101439293) & Nooh Faisal(stu_id: 101444062)
 
 <br />
 
